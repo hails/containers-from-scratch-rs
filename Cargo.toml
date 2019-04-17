@@ -1,0 +1,8 @@
+[package]
+name = "rocker"
+version = "0.1.0"
+authors = ["Allan J."]
+edition = "2018"
+
+[dependencies]
+nix = "0.13.0"
